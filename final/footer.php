@@ -1,4 +1,6 @@
 <footer style="margin-top:79px" class="site-footer">
+
+<!-- this is chage -->
     <div class="container">
         <div class="row">
             <div class="col-ft-1 col-sm-12 col-md-6">
